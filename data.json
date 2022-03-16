@@ -1,0 +1,2508 @@
+[
+    {
+        "timestamp": "2019-01-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 20.1,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 30.560000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.3000000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.3300000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 16.72,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.219999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.3100000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.2900000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 21.560000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 14.269999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 21.98000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 11.929999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 50.72,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.2900000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.3100000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 11.629999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 12.629999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-01-31T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 12.229999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 21.070000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.58,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 30.12000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 10.679999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 13.489999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 7.579999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 16.730000000000008,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 32.80000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.9700000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.9700000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.8500000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.09,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 14.079999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 5.549999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 7.739999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7800000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7900000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7900000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.8000000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.8000000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.8100000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 7.3599999999999985,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.8000000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7800000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 3.8099999999999987,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 8.719999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-02-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 2.9299999999999984,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.349999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 31.720000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 97.48000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 17.03000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 17.070000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 3.359999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 9.129999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 34.040000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7900000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 8.549999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 11.01,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 14.369999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.549999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 19.219999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7700000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 3.8399999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 4.809999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.6,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 25.31000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 13.979999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7300000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 8.409999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 33.42000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 17.849999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 18.729999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.179999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 27.77,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-03-31T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.6900000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 10.719999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 10.709999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 10.859999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 33.220000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.470000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 83.5,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 66.98000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 14.169999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 19.829999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 42.949999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 60.8,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 56.619999999999976,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 61.21999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7100000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 52.61999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.749999999999986,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 61.82999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.46999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7300000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 60.92999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7500000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 64.35,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 56.50999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.29,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 51.08,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 65.71,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7500000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.14999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-04-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 60.57999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 34.79000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 75.88000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 85.5,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.25999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 35.040000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 54.769999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 66.05999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.849999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 57.49,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 71.38,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.069999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.12999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.18999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.91999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 44.94999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.04,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 56.98,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 18.73000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.88999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 44.68999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.01999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.35999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 56.629999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 56.32,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 18.82000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 34.120000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.81999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.970000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7200000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-05-31T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.089999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 64.50999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.45999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.12,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.739999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 52.88,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.849999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.67999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.629999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 20.47000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.94,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 44.77,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.690000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 38.82,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.91,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 56.97,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 26.200000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.849999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.04999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 52.069999999999986,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 54.910000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 81.76000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7200000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 28.04000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.949999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.15999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 42.00999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 31.930000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 50.54999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 51.34999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-06-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 9.789999999999997,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.699999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.08,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 55.6,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 59.29,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.00999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 67.41,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 29.980000000000008,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 52.349999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 52.91999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 57.94999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.849999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 57.61,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 61.95,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 24.760000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 51.54999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.23999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.28999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.529999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 54.95999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 59.029999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 32.66,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.609999999999985,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 48.39999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 48.429999999999986,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.879999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.53999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.19999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 22.76000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.109999999999985,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 44.21999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-07-31T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.00999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.099999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.78,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.19,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 21.94000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.92999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.759999999999984,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.88000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.719999999999985,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 43.97999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 54.66999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 15.129999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 43.09999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.99999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.01999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.54,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.76,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 55.35999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 27.680000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 32.25000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.1,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 44.49999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.94999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 36.43,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.31999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 27.450000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.349999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 48.809999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.419999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.32,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-08-31T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.62,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 14.16,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.75999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 39.43,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.99999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 36.60000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.45000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.14999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7700000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 31.3,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 43.02,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.28,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 34.760000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 38.70000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 50.12999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 38.56000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 34.980000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.10999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.07999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 54.23,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 52.03,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.629999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 55.3,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 59.64999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.019999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 59.52999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 61.109999999999985,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7300000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-09-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 39.199999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.529999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 48.66,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.45000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 64.89,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 87.72999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 63.14,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 29.43000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 39.69000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.92999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 41.269999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 44.44999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.69999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7300000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 24.660000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.2,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 39.21000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 35.84,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.09,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.41,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.7600000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 26.100000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 36.36,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.73999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 42.11,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 40.669999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 54.33,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.8200000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.19999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 58.97,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 64.5,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-10-31T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 63.139999999999986,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.13999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 2.1700000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 50.18,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.12000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.099999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 66.0,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 57.399999999999984,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 57.91,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 37.98000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.9900000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.089999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 52.809999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 28.880000000000006,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 25.38000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 61.64,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 70.03,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.9900000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 46.48,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.769999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 43.349999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 62.64999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 74.07,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 76.99,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 0.9900000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 48.69999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 56.74999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 49.660000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 50.63,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 57.17,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-11-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 110.86,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-01T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 53.199999999999996,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-02T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 45.809999999999995,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-03T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 77.18,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-04T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 60.529999999999994,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-05T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 64.39999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-06T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.5100000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-07T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 62.44,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-08T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.5000000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-09T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 47.35999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-10T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 64.71999999999998,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-11T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 77.68000000000004,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-12T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 78.38000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-13T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 77.56000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-14T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 81.65000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-15T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.4900000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-16T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 76.50000000000003,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-17T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 73.03999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-18T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 67.3,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-19T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 80.34000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-20T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 85.85000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-21T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 106.54,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-22T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 79.90000000000002,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-23T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 120.4,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-24T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 30.900000000000013,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-25T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.5100000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-26T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.5000000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-27T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 34.06000000000001,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-28T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 64.17999999999999,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-29T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 1.5100000000000005,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-30T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 2.2800000000000007,
+        "unit": "kWh"
+    },
+    {
+        "timestamp": "2019-12-31T00:00:00",
+        "reportingGroup": "Electricity",
+        "locationName": "1000 Hakaniemen kauppahalli",
+        "value": 27.57000000000001,
+        "unit": "kWh"
+    }
+]

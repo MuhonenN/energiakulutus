@@ -1,4 +1,31 @@
-.App {
+.container {
+    width: 600px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px 15px;
+}
+
+.data-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.data {
+    margin-top: 10px;
+    padding: 0 15px;
+    border: 1px solid #ccc;
+}
+
+.data h3 {
+    color: #222;
+}
+
+.data p {
+    color: #777;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +62,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
